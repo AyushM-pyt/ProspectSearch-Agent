@@ -1,2 +1,7 @@
 # Ignore environment files 
 .env
+
+
+# Others files to be ignored..
+__pycache__/
+*.pyc
