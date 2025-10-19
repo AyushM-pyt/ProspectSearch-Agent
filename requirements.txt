@@ -1,0 +1,19 @@
+# Core data handling
+pandas
+numpy
+
+# API requests
+requests
+
+# Text processing & NLP
+spacy
+regex
+
+# LLM / AI integration
+openai
+gpt4all
+
+# Utilities
+python-dotenv
+# loguru==0.7.0
+# rich==14.0.0

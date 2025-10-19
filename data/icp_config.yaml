@@ -1,0 +1,21 @@
+ICP:
+  revenue_min: 20M
+  revenue_max: 200M
+  industry:
+    - B2B Software
+    - FinTech
+  geography:
+    - USA
+  employee_count_min: 100
+  keywords:
+    - AI
+    - data analytics
+    - automation
+    - machine learning
+
+Signals:
+  funding: true
+  hiring_data_roles: true
+  tech_stack:
+    - Snowflake
+    - AWS
